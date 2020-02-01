@@ -4,32 +4,28 @@
     "id": 1,
     "name": "john",
     "age": 21,
-    "mem":0,
-    "email" : "john@ghj.com",
+    "address" : "UK",
     "phone" : 9002300000
   },
   {
     "id": 2,
     "name": "judy",
     "age": 37,
-    "mem":1,
-    "email" : "judy@ghj.com",
+    "address" : "Brazil",
     "phone" : 90023000012
   },
   {
     "id": 3,
     "name": "jack",
     "age": 28,
-    "mem":0,
-    "email" : "jack@ghj.com",
+    "address" : "USA",
     "phone" : 2002300000
   },
 {
     "id": 4,
     "name": "judy",
     "age": 48,
-    "mem":1,
-    "email" : "judy@ghj.com",
+     "address" : "Canada",
     "phone" : 7002300000
   }
 ]
