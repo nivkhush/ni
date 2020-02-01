@@ -6,7 +6,7 @@
     "age": 21,
     "mem":0,
     "email" : "john@ghj.com",
-    "phone" : "9002300000"
+    "phone" : 9002300000
   },
   {
     "id": 2,
@@ -14,7 +14,7 @@
     "age": 37,
     "mem":1,
     "email" : "judy@ghj.com",
-    "phone" : "9002300000"
+    "phone" : 90023000012
   },
   {
     "id": 3,
@@ -22,7 +22,7 @@
     "age": 28,
     "mem":0,
     "email" : "jack@ghj.com",
-    "phone" : "9002300000"
+    "phone" : 2002300000
   },
 {
     "id": 4,
@@ -30,6 +30,6 @@
     "age": 48,
     "mem":1,
     "email" : "judy@ghj.com",
-    "phone" : "9002300000"
+    "phone" : 7002300000
   }
 ]
